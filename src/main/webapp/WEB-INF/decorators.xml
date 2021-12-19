@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/decorators">
+
+	
+    <decorator name="trang-chu" page="web.jsp">
+       <pattern>/trang-chu</pattern>
+    </decorator>
+    
+      <decorator name="showlist" page="web.jsp">
+       <pattern>/showlist</pattern>
+    </decorator>
+    
+    <decorator name="contact" page="web.jsp">
+       <pattern>/contact</pattern>
+    </decorator>
+    <decorator name="news" page="web.jsp">
+       <pattern>/news</pattern>
+    </decorator>
+    
+    <decorator name="details" page="web.jsp">
+       <pattern>/details</pattern>
+    </decorator>
+    
+    <decorator name="searchlist" page="web.jsp">
+       <pattern>/searchlist</pattern>
+    </decorator>
+    
+    <decorator name="dashboard" page="admin.jsp">
+       <pattern>/dashboard</pattern>
+    </decorator>
+    
+    <decorator name="addbrand" page="admin.jsp">
+       <pattern>/addbrand</pattern>
+    </decorator>
+    
+    <decorator name="admin" page="login.jsp">
+       <pattern>/admin</pattern>
+    </decorator>
+    
+     <decorator name="listproduct" page="admin.jsp">
+       <pattern>/listproduct</pattern>
+    </decorator>
+    
+     <decorator name="addproduct" page="admin.jsp">
+       <pattern>/addproduct</pattern>
+    </decorator>
+    
+    <decorator name="listbrand" page="admin.jsp">
+       <pattern>/listbrand</pattern>
+    </decorator>
+      
+     <decorator name="listnews" page="admin.jsp">
+       <pattern>/listnews</pattern>
+    </decorator>   
+     <decorator name="addnews" page="admin.jsp">
+       <pattern>/addnews</pattern>
+    </decorator> 
+       
+    <decorator name="map" page="admin.jsp">
+       <pattern>/map</pattern>
+    </decorator>     
+
+</decorators>
